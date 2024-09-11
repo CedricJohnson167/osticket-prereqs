@@ -15,8 +15,7 @@ Password: osTicketPassword1!
 
 
 
-
-
+<p>
 
 
 
@@ -34,8 +33,7 @@ We will use the files in this folder to install osTicket and some of the depende
 
 
 
-
-
+<p>
 
 
 
