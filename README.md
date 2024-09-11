@@ -1,5 +1,5 @@
 # osticket-prereqs
-<h2> Step1:Deployment and Configuration Steps</h2>
+
 
 <p>
 Create an Azure Virtual Machine Windows 10, 4 vCPUs
